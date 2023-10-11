@@ -2,53 +2,14 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+During the tutorial we will use established methods and frameworks to practice how to manage a digital exhibition/experience design project from the stage of its conception to the stage of its conceptualisation through a storyboard. 
 
-## Data Sets
+For these, you will need to access to one of the following resources: 
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+- Persona builder template: [files/project-canvas.pdf (in our sharepoint) 
+- Project canvas: [PDF template]()
+- [Miro editable template](https://miro.com/templates/project-canvas-2/) (you will need to create an account) 
+- Storyboard building: [PDF template](https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf)
 
-## Software Setup
-
-::::::::::::::::::::::::::::::::::::::: discussion
-
-### Details
-
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
-
-
-:::::::::::::::: solution
-
-### Linux
-
-Use Terminal
-
-:::::::::::::::::::::::::
+ 
 

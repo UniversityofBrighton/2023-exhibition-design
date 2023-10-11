@@ -2,8 +2,14 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+This tutorial is a practical exercise on digital practices to curate interactive experiences and support GLAM’s researchers and practitioners to engage with their audiences through the design of multimedia applications, making use of appropriate frameworks and tools. 
 
+The tutorial covers topics such as: 
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+- Managing a digital exhibition/experience project 
+- Defining users or target audiences through UX and visitor research methods 
+- Designing a storyboard for a multimedia interpretative application. 
 
+ 
+
+The tutorial is built with The Carpentries Workbench, as part of the training activities of the AHRC-funded network service on Digital Skills in Visual and Material Culture. 

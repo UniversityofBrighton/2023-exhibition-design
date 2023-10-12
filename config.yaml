@@ -17,7 +17,7 @@ title: '2023-exhibition-design'
 created: '2023-10-11'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'exhibition design, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -27,13 +27,13 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://example.com/FIXME-template-source'
+source: 'https://github.com/UniversityofBrighton/2023-exhibition-design'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'info@culturedigitalskills.org'
 
 # Navigation ------------------------------------------------
 #
@@ -58,7 +58,7 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
 - choose-context.Rmd
 - choose-user.Rmd
@@ -66,13 +66,13 @@ episodes:
 - build-a-storyboard.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #

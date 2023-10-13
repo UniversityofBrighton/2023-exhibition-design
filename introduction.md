@@ -23,7 +23,7 @@ exercises: 2
 
 For this exercise we will outline a digital exhibition/experience application by going through the following steps:
 
-1.	Choose context in terms of site/monument/theme
+1.	Choose context in terms of theme
 2.	Choose our user through the persona building method
 3.	Use project canvas to provide an overview of the digital experience project
 4.	Build a storyboard for the proposed digital experience application

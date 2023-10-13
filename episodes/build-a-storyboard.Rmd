@@ -6,7 +6,7 @@ exercises: 2
 
 ## Step 4: Build a storyboard for the proposed digital experience application (15 min)
 
-In this step, you will build the storyboard for our application. Please download the storyboard template from here: [https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf](https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf)
+In this step, you will build the storyboard for your application. Please download the storyboard template from here: [https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf](https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf)
 
 ![The hands of an illustrator painter draw a storyboard for a movie or cartoon &copy; by Oleksandr under Education License from Adobe Stock](fig/AdobeStock_352645583.jpeg){alt="hands"}
 
@@ -20,12 +20,13 @@ Now look at the examples below:
 
 
 Think of the following information to include in your storyboard:
+
 -	How will the user access the application?
 -	What will be the starting screen/scene of the application?
 -	How will the user access the next/following scenes and how they will access information?
 -	What are the media to include (images, videos, texts, 3D models, audio etc)?
 -	What will be the closing scene?
 
-In the storyboard template, the first box of the storyboard will be used to sketch what is happening in each scene.  The 'action' box is dedicated to the description of what is happening in each scene. In the narration/caption box, you can fill in a phrase/message/blurb as it will appear to the user and lastly, the music/sound effect can provide some information about the sound/s which accompany the information provided on each scene/screen (if present).
+In the storyboard template, the **first box** of the storyboard will be used to sketch what is happening in each scene.  The **action box** is dedicated to the description of what is happening in each scene. In the **narration/caption box**, you can fill in a phrase/message/blurb as it will appear to the user and lastly, the **music/sound effect box** can provide some information about the sound/s which accompany the information provided on each scene/screen (if present).
 
 The most important thing to remember when designing a storyboard is to be creative, work as a team and produce/test many drafts which can help you to decide about the final visual organisation of the proposed application.

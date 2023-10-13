@@ -13,18 +13,18 @@ First download the [project canvas template](files/project-canvas.pdf). There is
 
 Given that you have already built your persona and you have chosen the context/theme of your application, here you will have to plan your project. In this case, the project is defined as the digital exhibition/experience multimedia application for a given audience within a certain context. 
 
-![Project canvas by Project Canvas Creators under CC BY-NC-SA 4.0 DEED from [Project Canvas website](https://www.projectcanvas.dk/)(fig/canvas.jpg){alt="canvas"} 
+![Project canvas by Project Canvas Creators under CC BY-NC-SA 4.0 DEED from [Project Canvas website](https://www.projectcanvas.dk/)](fig/canvas.png){alt="canvas"} 
 
 
 The sections of the project canvas require the following information:
 
 -	**Purpose**: The reason for working on this application project and your intention, i.e., what you want to achieve by introducing it and how the application will benefit audiences.
 -	**Scope**: What are the areas the project will cover and what it will not cover, e.g., a given collection for a given audience.
--	**Success criteria**: How to determine that the interpretative application has achieved its result. What are the goals, the benefits that the application brings and how this will be measured (e.g., how many people will download the app, how many visits on the museum’s website will be).
+-	**Success criteria**: How to determine that the interpretative application has achieved its result. What are the goals, the benefits that the application brings and how this will be measured (e.g., how many people will download the app, how many visits on the museum's website we aim for).
 -	**Outcome**: This is the desired result of the project, as supported by the rest of the project canvas. Here you have to describe what will be delivered to achieve the purpose of the project. The outcome should be Specific, Measurable, Acceptable, Realistic (SMART). 
 -	**Milestones**: Significant check points of the application development. These milestones are helpful to organise the project, as well as to communicate it to others. Here you define deadlines and milestones for your application development (e.g., requirements gathered, content ready).
 -	**Actions**: These are the tasks and activities (e.g., a task might comprise several activities). In actions, you describe what you will create, organise, test or produce (e.g., produce survey to gather requirements, digitise material). Actions can be kept at a higher level or describe activities in more detail.
--	**Team: Members** your team consists of and their roles. Interdisciplinarity is key when choosing people and roles.
+-	**Team**: Members your team consists of and their roles. Interdisciplinarity is key when choosing people and roles.
 -	**Stakeholders**: Stakeholders are the people interested or affected by the proposed application. They can provide valuable input and assistance throughout the development of your application. This might include consultants or specific groups, such as teachers and disability advisors.
 -	**Users**: Who are the users of the proposed application? These are the people you expect to benefit from introducing the application.
 -	**Resources**: This is a critical aspect when planning your application. Here you need to define tangible and intangible resources to be able to perform actions. Here you need to look at in house knowledge/skills and materials and decide if you need to outsource knowledge/skills.

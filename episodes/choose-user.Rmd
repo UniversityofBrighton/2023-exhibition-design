@@ -38,11 +38,13 @@ Please bear in mind that we are interested in personas within the arts/heritage 
 
 >I don’t want to follow a predefined path when visiting a museum, I want to see the things that are closer to my interests.
 
-Some examples to help you through the persona design process are the following:
-
 ![](fig/user1.png){alt="user 1"}
 
-![](fig/user2.png){alt="user 2"}
+![Examples of personas made with Hubspot Persona Tool via [https://www.hubspot.com/make-my-persona](https://www.hubspot.com/make-my-persona)
+](fig/user2.png){alt="user 2"}
+
+Some examples to help you through the persona design process are the following:
+
 
 - Sun, C. (2020-2023). Muse project. Retrieved from: [https://www.clairsun.design/work/muse-discovery-art](https://www.clairsun.design/work/muse-discovery-art)
 -	Roussou, M., Katifori, A., Pujol, L., Vayanou, M., & Egglestone, S.R. (2013). A life of their own: museum visitor personas penetrating the design lifecycle of a mobile experience. CHI '13 Extended Abstracts on Human Factors in Computing Systems. Retrieved from: [https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a](https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a)

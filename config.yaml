@@ -58,21 +58,22 @@ contact: 'info@culturedigitalskills.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes:
+episodes: 
 - introduction.Rmd
 - choose-context.Rmd
 - choose-user.Rmd
 - provide-an-overview.Rmd
 - build-a-storyboard.Rmd
+- more-information.Rmd
 
 # Information for Learners
-learners:
+learners: 
 
 # Information for Instructors
-instructors:
+instructors: 
 
 # Learner Profiles
-profiles:
+profiles: 
 
 # Customisation ---------------------------------------------
 #

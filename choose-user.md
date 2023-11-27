@@ -52,5 +52,5 @@ Some examples to help you through the persona design process are the following:
 There are many tools and templates to create personas online. Some examples, that you might wish to explore further are the following:
 
 -[Hubspot - Make my persona tool](https://www.hubspot.com/make-my-persona)
-- [Canva persona template] (https://www.canva.com/p/templates/EAFupsPXUJ4-beige-and-orange-professional-marketing-buyer-persona-a4-document/)
+- [Canva persona template](https://www.canva.com/p/templates/EAFupsPXUJ4-beige-and-orange-professional-marketing-buyer-persona-a4-document/)
 

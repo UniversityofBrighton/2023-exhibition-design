@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Step 4: Build a storyboard for the proposed digital experience application (15 min)
+## Build a storyboard for the proposed digital experience application
 
 In this step, you will build the storyboard for your application. Please download the storyboard template from here: [https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf](https://museumsvictoria.com.au/media/6716/making-history-storyboard-tempate.pdf). There is also the option to work on an [editable template on Miro](https://miro.com/miroverse/storyboarding-toolkit/) if you prefer - you will need to create an account.
 

@@ -47,10 +47,11 @@ Some examples to help you through the persona design process are the following:
 
 
 - Sun, C. (2020-2023). Muse project. Retrieved from: [https://www.clairsun.design/work/muse-discovery-art](https://www.clairsun.design/work/muse-discovery-art)
--	Roussou, M., Katifori, A., Pujol, L., Vayanou, M., & Egglestone, S.R. (2013). A life of their own: museum visitor personas penetrating the design lifecycle of a mobile experience. CHI '13 Extended Abstracts on Human Factors in Computing Systems. Retrieved from: [https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a](https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a)
+- Roussou, M., Katifori, A., Pujol, L., Vayanou, M., & Egglestone, S.R. (2013). A life of their own: museum visitor personas penetrating the design lifecycle of a mobile experience. CHI '13 Extended Abstracts on Human Factors in Computing Systems. Retrieved from: [https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a](https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a)
 
 There are many tools and templates to create personas online. Some examples, that you might wish to explore further are the following:
 
 -[Hubspot - Make my persona tool](https://www.hubspot.com/make-my-persona)
+
 - [Canva persona template](https://www.canva.com/p/templates/EAFupsPXUJ4-beige-and-orange-professional-marketing-buyer-persona-a4-document/)
 

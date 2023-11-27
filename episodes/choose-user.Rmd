@@ -7,7 +7,7 @@ exercises: 2
 ## Choose your user through the persona building method
 
 
-First, download the [Persona builder template](files/persona-digital-experience.pdf)
+First, download the [Persona builder template](files/persona-digital-experience.pdf).
 
 If you would rather use an online tool or template to create a persona, you can also have a look at the following:
 

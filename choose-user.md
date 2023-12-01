@@ -4,18 +4,12 @@ teaching: 10
 exercises: 2
 ---
 
-## Choose your user through the persona building method
+## Step 2: Choose your user through the persona building method (15 min)
 
 
-First, download the [Persona builder template](files/persona-digital-experience.pdf).
+First, download the [Persona builder template](files/persona-digital-experience.pdf)
 
-If you would rather use an online tool or template to create a persona, you can also have a look at the following:
-
-- [Hubspot - Make my persona tool](https://www.hubspot.com/make-my-persona)
-
-- [Canva persona template](https://www.canva.com/p/templates/EAFupsPXUJ4-beige-and-orange-professional-marketing-buyer-persona-a4-document/)
-
-Now in this step you will use the persona building method, which is established in User Experience (UX) design to define key characteristics of the user of your application.
+In this step you will use the persona building method, which is established in User Experience (UX) design to define key characteristics of the user of your application.
 
 
 Please bear in mind that we are interested in personas within the arts/heritage digital interpretative experience context. Hence key points we are interested in are:
@@ -53,7 +47,5 @@ Some examples to help you through the persona design process are the following:
 
 
 - Sun, C. (2020-2023). Muse project. Retrieved from: [https://www.clairsun.design/work/muse-discovery-art](https://www.clairsun.design/work/muse-discovery-art)
-- Roussou, M., Katifori, A., Pujol, L., Vayanou, M., & Egglestone, S.R. (2013). A life of their own: museum visitor personas penetrating the design lifecycle of a mobile experience. CHI '13 Extended Abstracts on Human Factors in Computing Systems. Retrieved from: [https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a](https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a)
-
-
+-	Roussou, M., Katifori, A., Pujol, L., Vayanou, M., & Egglestone, S.R. (2013). A life of their own: museum visitor personas penetrating the design lifecycle of a mobile experience. CHI '13 Extended Abstracts on Human Factors in Computing Systems. Retrieved from: [https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a](https://www.semanticscholar.org/paper/A-life-of-their-own%3A-museum-visitor-personas-the-of-Roussou-Katifori/6a2bbf76860bd579151b0efbfd004cb5358aa06a)
 

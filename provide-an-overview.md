@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Use project canvas to provide an overview of the digital experience project
+## Step 3: Use project canvas to provide an overview of the digital experience project (15 min)
 
 
 First download the [project canvas template](files/project-canvas.pdf). There is also the option to work on an [editable template on Miro](https://miro.com/templates/project-canvas-2/) if you prefer - you will need to create an account.

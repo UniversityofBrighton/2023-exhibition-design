@@ -22,7 +22,7 @@ Please bear in mind that we are interested in personas within the arts/heritage 
 
 -	Information about our persona in terms of age, occupation, family status, location (where this person lives), electronic devices they use.
 -	Experience in internet/pc, mobile/table, social media use.
--	Quote, i.e., a phrase that exemplifies this persona’s attitudes and might include some information with regards to digital interpretative experiences, use of technology, personal interests etc. For instance:
+-	Quote, i.e., a phrase that exemplifies this persona’s attitudes and might include some information with regard to digital interpretative experiences, use of technology, personal interests etc. For instance:
 
 >I would like to discover hidden stories about the museum’s collections. 
 

@@ -3,12 +3,12 @@ site: sandpaper::sandpaper_site
 ---
 
 
-This tutorial is a practical exercise on digital practices to curate interactive experiences and support GLAM’s researchers and practitioners to engage with their audiences through the design of multimedia applications, making use of appropriate frameworks and tools.
+This resource provides guidance on digital practices to curate interactive experiences through a set of practical exercises. The resource aims to support GLAM’s researchers and practitioners to engage with their audiences through the design of multimedia applications, while making use of appropriate frameworks and tools.
 
 ![Boy looking at sculptures and listening to audio guide at museum exhibition &copy; by galitskaya under Education License from Adobe Stock](episodes/fig/boy.jpg){alt="boy in museum"}
 
-The tutorial covers topics such as:
+By the end of this session you are expected to be able to:
 
-- Managing a digital exhibition/experience project
-- Defining users or target audiences through UX and visitor research methods
-- Designing a storyboard for a multimedia interpretative application.
+- Manage a digital exhibition/experience project.
+- Define users or target audiences through UX and visitor research methods.
+- Design a storyboard for a multimedia interpretative application.

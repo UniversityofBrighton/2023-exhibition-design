@@ -8,12 +8,10 @@ exercises: 2
 
 ## Interactive multimedia experiences in CH
 
-They can be classified under different criteria (e.g. purpose/function, audience, media, device, location, involvement of senses).
-
-Galleries, Libraries, Archives, Museums testbeds for digital, hence great variety of applications.
+Interactive multimedia experiences in CH can be classified under different criteria (e.g. purpose/function, audience, media, device, location, involvement of senses).
 
 
-Some examples:
+Some examples of digital multimedia experiences in the context of CH can be found below:
 
 - Online collection explorations: [Smithsonian National Museum of Natural History – Human evolution](https://humanorigins.si.edu/)
 - Online storytelling exhibits: [Google Arts & Culture – Wood carving Craft, Brighton & Hove Museums – A short rife in a log walk](https://artsandculture.google.com/story/dQUxxVVlTbimeQ)
